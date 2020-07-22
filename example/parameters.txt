@@ -1,0 +1,3 @@
+otufile	plugins/Sparsity/example/asv_abund.norm.transpose.csv
+mapping	plugins/Sparsity/example/asv_map.csv
+tree	plugins/Sparsity/example/asv_tax.csv

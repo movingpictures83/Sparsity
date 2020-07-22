@@ -1,0 +1,2 @@
+Prefix plugins/Sparsity/example
+Plugin Sparsity inputfile parameters.txt outputfile sparsity
